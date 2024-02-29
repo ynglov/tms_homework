@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="541ffe2e-f9ea-432b-84af-8f06475310b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hometask2/src/main/java/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/src/main/java/Profession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/src/main/java/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -48,9 +54,10 @@
   "keyToString": {
     "Gradle.tms_homework:hometask2 [:hometask2:task1.main()].executor": "Run",
     "Gradle.tms_homework:hometask2 [:hometask2:task2.main()].executor": "Run",
+    "Gradle.tms_homework:lesson6 [:lesson6:Main.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "hometask2",
+    "git-widget-placeholder": "lesson6",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -58,13 +65,21 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/ynglo/IdeaProjects/tms_homework/lesson6/src/main/java/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task3">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="tms_homework.lesson6.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task1" />
       <module name="tms_homework.hometask2.main" />
@@ -88,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.task3" />
         <item itemvalue="Application.task2" />
         <item itemvalue="Application.task1" />
@@ -137,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708426940562</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson5">
+      <option name="closed" value="true" />
+      <created>1709229747367</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709229747367</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
