@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="541ffe2e-f9ea-432b-84af-8f06475310b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hometask2/src/main/java/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/main/java/MainTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/main/java/MainTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/main/java/org/task1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/src/main/java/org/task2/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +54,10 @@
   "keyToString": {
     "Gradle.tms_homework:hometask2 [:hometask2:task1.main()].executor": "Run",
     "Gradle.tms_homework:hometask2 [:hometask2:task2.main()].executor": "Run",
+    "Gradle.tms_homework:lesson5 [:lesson5:MainTask1.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "hometask2",
+    "git-widget-placeholder": "lesson5",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -64,7 +71,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task3">
+  <component name="RunManager" selected="Application.MainTask2">
+    <configuration name="MainTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTask1" />
+      <module name="tms_homework.lesson5.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTask2" />
+      <module name="tms_homework.lesson5.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task1" />
       <module name="tms_homework.hometask2.main" />
@@ -88,6 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTask2" />
+        <item itemvalue="Application.MainTask1" />
         <item itemvalue="Application.task3" />
         <item itemvalue="Application.task2" />
         <item itemvalue="Application.task1" />
@@ -146,6 +169,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="task2" />
+    <MESSAGE value="lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson4" />
   </component>
 </project>
