@@ -1,4 +1,5 @@
 rootProject.name = 'tms_homework'
 include 'hometask1'
 include 'hometask2'
+include 'lesson4-array'
 
